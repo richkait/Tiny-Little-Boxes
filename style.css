@@ -1,0 +1,23 @@
+/* 
+	Theme Name: 2012 Tiny Little Boxes
+	Author: Kaitlyn Rich
+	http://kaitlynrich.com
+	http://tinylittleboxes.com
+	
+	Yellow: #ffff00
+	Project/image size: 280px, 340px, 400px
+*/
+
+@import "css/reset.css";
+@import "css/960.css";
+/* GENERAL */
+a 				{ text-decoration: none; }
+body			{ background: url(images/banner.jpg) top left no-repeat; }
+
+/* HEADER */
+#logo { 
+	background: url(images/logo.png); 
+	width: 200px;
+	height: 100px; 
+	float: left;
+}
